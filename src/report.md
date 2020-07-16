@@ -39,8 +39,8 @@
 * Описание процесса тестирования:
 1. Открываю Руководство по установке IntelliJ IDEA [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 2. Следую интструкции с п.20
-3. Затем копирую код и вставляю, запускаю и жду результат ![скрин](
-4. После успешного запуска, вставляю код ![скрин](
+3. Затем копирую код и вставляю, запускаю и жду результат ![скрин](https://github.com/dmtevelavichius/HW-1.2_JAVA/blob/master/src/2.png)
+4. После успешного запуска, вставляю код ![скрин](https://github.com/dmtevelavichius/HW-1.2_JAVA/blob/master/src/1.png)
 5. Далее необходимо менять в 4й строке номер карты, для генерации номера использую сайт [ссылка](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 6. После вставки номера, жму "Run" и фиксирую результат.
 7. Провожу последовательное тестирование 5 номеров
